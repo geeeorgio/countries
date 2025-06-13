@@ -11,6 +11,9 @@ const Header = () => {
           <li>
             <Link to={"/searchCountry"}>Search Country</Link>
           </li>
+          <li>
+            <Link to={"/notes"}>Notes</Link>
+          </li>
         </ul>
       </nav>
     </header>
